@@ -1,0 +1,27 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - GraphAlgo",
+        "request": "launch",
+        "mainClass": "Graph.GraphAlgo",
+        "projectName": "Algorithm_3451eac6"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Bfs",
+        "request": "launch",
+        "mainClass": "Graph.Bfs",
+        "projectName": "Algorithm_3451eac6"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "mainClass": ""
+    }
+]
+}
